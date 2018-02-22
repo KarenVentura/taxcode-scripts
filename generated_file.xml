@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="henribendel-master">
+  <product product-id="00000018700025">
+    <tax-class-id>75200</tax-class-id>
+  </product>
+  <product product-id="0000300008">
+    <tax-class-id>61025</tax-class-id>
+  </product>
+  <product product-id="0000300050">
+    <tax-class-id>73112</tax-class-id>
+  </product>
+</catalog>
